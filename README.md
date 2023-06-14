@@ -1,4 +1,4 @@
-# Palindrome
+# EX-NO-2 Palindrome
 
 
 ## Aim:
